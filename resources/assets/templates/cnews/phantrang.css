@@ -1,0 +1,41 @@
+.phantrang ul li{
+	/*text-decoration:none;*/
+	padding-bottom:5px;
+	padding-left: 2px;
+	padding-top:1px;
+	width: 10px;
+	height: 10px;
+	float:left;
+	margin-left: 10px;
+	border:10px solid #8fc400;
+	background: #8fc400;
+	border-radius: 5px;
+	width: 10px;
+	height: 10px;
+	
+	list-style: none;
+	
+
+}
+.phantrang ul{
+	margin-left:26px;
+	padding-top:30px;
+
+	
+}
+.phantrang{
+	margin-bottom: 50px;
+
+
+}
+.phantrang ul li a{
+	
+	
+	text-decoration:none;
+	list-style: none;
+	color:red;
+
+	
+
+}
+
